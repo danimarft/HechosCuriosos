@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HechosCuriosos</string>
+    <string name="hello_world">¿Sabias qué?</string>
+    <string name="action_settings">Opciones</string>
+    <string-array
+        name="resp">
+        <item>Las hormigas se estiran cuando se despiertan por la mañana </item>
+        <item>Las avestruces pueden correr más rápido que los caballos</item>
+        <item>Las medallas de oro de los JJOO está hechas de plata</item>
+        <item>Naciste con 300 huesos pero en la edad adulta tendrás solo 206</item>
+        <item>Toma unos 8 minutos en llegar la luz a la Tierra</item>
+        <item>Algunas plantas de bambú pueden crecer un metro al día</item>
+        <item>El estado de Florida es más grande que Inglaterra</item>
+        <item>Algunos pinguinos pueden saltar de 2 a 3 metros por encima del agua</item>
+        <item>De media se tarda 66 días en tomar un nuevo hábito</item>
+        <item>Los mamut seguían caminando por la tierra en la época en la que se construyeron las grandes pirámides</item>
+
+    </string-array>
+
+    <string-array
+        name="col">
+        <item>#39add1</item>
+        <item>#3079ab</item>
+        <item>#c25975</item>
+        <item>#e15258</item>
+        <item>#f9845b</item>
+        <item>#838cc7</item>
+        <item>#7d669e</item>
+        <item>#53bbb4</item>
+        <item>#51b46d</item>
+        <item>#e0ab18</item>
+        <item>#637a91</item>
+        <item>#f092b0</item>
+        <item>#b7c0c7</item>
+    </string-array>
+
+</resources>
